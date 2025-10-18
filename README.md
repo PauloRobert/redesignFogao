@@ -1,6 +1,6 @@
 # Nova Interface do Fogão Acessível
 
-![Nova Interface do Fogão](img/foga.png)
+![Nova Interface do Fogão](img/fogao.png)
 
 ## Descrição
 
