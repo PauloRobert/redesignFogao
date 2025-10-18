@@ -52,7 +52,6 @@ O manual inclui:
 
 ## Footer
 
-Paulo Roberto – Outubro/2025  
-Projeto desenvolvido com foco em acessibilidade e design inclusivo, seguindo diretrizes **WCAG** e princípios do **Design Universal**.
-
-[GitHub](https://github.com)
+**Aluno:** Paulo Roberto – Outubro/2025
+**Curso:** 	CPV.LAT.DSW.2024 - Especialização em Desenvolvimento de Sistemas Web e Aplicativos Móveis
+**Disciplina:** Desenvolvimento para Internet I
