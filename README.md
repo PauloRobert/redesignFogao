@@ -53,5 +53,7 @@ O manual inclui:
 ## Footer
 
 **Aluno:** Paulo Roberto – Outubro/2025
+
 **Curso:** 	CPV.LAT.DSW.2024 - Especialização em Desenvolvimento de Sistemas Web e Aplicativos Móveis
+
 **Disciplina:** Desenvolvimento para Internet I
